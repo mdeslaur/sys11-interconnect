@@ -1,0 +1,13 @@
+This project uses the following libraries:
+
+Littelfuse_Inc-03540101ZXGY-MFG.kicad_mod
+Littelfuse_Inc-03540101ZXGY-MFG-combo.kicad_mod
+R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal-combo.kicad_mod
+
+I can't remember where I obtained Littelfuse_Inc-03540101ZXGY-MFG.kicad_mod
+from. Littelfuse_Inc-03540101ZXGY-MFG-combo.kicad_mod is a modified version
+of it that allows the use of simple fuse clips as an alternative.
+
+R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal-combo.kicad_mod is a
+modified version of an axial resistor bundled with kicad that has extra
+holes to pupulate either the ceramic resistor, or a 0-ohm resistor jumper.
