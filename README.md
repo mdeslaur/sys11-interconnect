@@ -13,9 +13,13 @@ doesn't have the optocouplers at U2 and U3.
 
 Version 1.0 of this design was tested successfully in Diner.
 
-Change history:
-1.0 - Initial version
-1.1 - Moved some traces further away from J19
+Change history:  
+1.0 - Initial version  
+1.1 - Moved some traces further away from J19  
+
+To Do:  
+- Clean up the schematic, goal was to make a PCB, not a schematic.  
+- Modify Molex connector footprints to make pads longer  
 
 Marc Deslauriers
 2022-05-17
